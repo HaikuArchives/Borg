@@ -1,0 +1,13 @@
+#ifndef BOEVENTEDITOR_H_
+#define BOEVENTEDITOR_H_
+
+#include <Window.h>
+
+class BOEventEditor:public BWindow{
+public:
+
+
+protected:
+};
+
+#endif
